@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abdulmoid5/markdown-app/static/css/main.073c9b0a.css",
+    "main.js": "/abdulmoid5/markdown-app/static/js/main.fa79fb28.js",
+    "static/js/787.13b9c3ac.chunk.js": "/abdulmoid5/markdown-app/static/js/787.13b9c3ac.chunk.js",
+    "index.html": "/abdulmoid5/markdown-app/index.html",
+    "main.073c9b0a.css.map": "/abdulmoid5/markdown-app/static/css/main.073c9b0a.css.map",
+    "main.fa79fb28.js.map": "/abdulmoid5/markdown-app/static/js/main.fa79fb28.js.map",
+    "787.13b9c3ac.chunk.js.map": "/abdulmoid5/markdown-app/static/js/787.13b9c3ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fa79fb28.js"
+  ]
+}
